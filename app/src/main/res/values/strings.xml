@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="saludo">Bienvenido a la aplicación del clima</string>
+    <string name="btn1">Pronostico Actual </string>
+    <string name="btn2">Listado de Ciudades</string>
+    <string name="btn3">Hola Ruben </string>
+    <string name="tempActual">30°</string>
+    <string name="desc">Soleado, ideal playa</string>
+    <string name="min">18°</string>
+    <string name="max">32°</string>
+</resources>
