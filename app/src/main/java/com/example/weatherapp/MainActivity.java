@@ -33,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
         Intent myIntent = new Intent(this, DetailActivity.class);
         /*myIntent.putExtra("nombreCiudad", "Roma");*/
 
-        myIntent.putExtra("lat", -26.8083f);
-        myIntent.putExtra("lon", -65.2101f);
+        myIntent.putExtra("lat", 25.783333333333f);
+        myIntent.putExtra("lon", -80.216666666667f);
 
-        startActivity(myIntent);
+       startActivity(myIntent);
     }
 }
